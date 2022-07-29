@@ -1,1 +1,1 @@
-# Mass-mail-dispacher-
+# Mass-mail-dispatcher
